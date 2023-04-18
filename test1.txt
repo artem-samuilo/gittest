@@ -2,3 +2,4 @@ init repo
 commit 1
 crate branch1
 update branch1
+update branch1
